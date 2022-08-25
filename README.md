@@ -1,24 +1,25 @@
 # Cyber-Resilience-Topic-Modelling
 For a Major Research Project submitted to Ryerson
 
-*Purpose: 
-**Topic Modelling using LDA techniques on academic literature related to cyber resilience
+**Purpose: 
+
+Topic Modelling using LDA techniques on academic literature related to cyber resilience
 
 Dataset Used:
 To be updated with link
 
 Description of the notebooks:
 
-1. create csv full text
+*1. create csv full text
 extract the full-text from PDF files
 
-2. csv full text remove references & blanks & language test
+*2. csv full text remove references & blanks & language test
 removes the reference section from the full-texts, also incorporates a step-by-step process to remove references in special cases that it needs to be done manually, non-English texts, blank documents and unreadable papers are also removed
 
-3. data cleansing
+*3. data cleansing
 removes email addreses, new line characters, website addresses, unnecessary text ("cid:", etc.), date formats, and numbers 
 
-4. papers aggregation & duplicate removal & language test
+*4. papers aggregation & duplicate removal & language test
 the final pre-processing controls including identifying duplications, and aggregating the data with the original Scopus output
 
 5. topic modeling all papers
