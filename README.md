@@ -1,13 +1,19 @@
 # Cyber-Resilience-Topic-Modelling
+
 For a Major Research Project submitted to Toronto Metropolitan University (TMU)
-## Purpose: Topic Modelling using LDA techniques on academic literature related to cyber resilience
+## Purpose: 
+
+Topic Modelling using LDA techniques on academic literature related to cyber resilience
 
 ## Dataset Used: ###
 
-#### Downloaded pdf files: to be updated with link
+#### Downloaded pdf files: 
 
-#### Scopus Extract & full text extract csv format: to be updated with link
+TBD
 
+#### Scopus Article Extract & Full Text Extract from pdf files: 
+
+TBD
 
 ## Description of the notebooks:
 
