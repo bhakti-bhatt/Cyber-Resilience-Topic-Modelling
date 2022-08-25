@@ -5,7 +5,7 @@ For a Major Research Project submitted to Toronto Metropolitan University (TMU)
 
 Topic Modelling using LDA techniques on academic literature related to cyber resilience
 
-Abstract: 
+### Abstract: 
 
 Cyber resilience is receiving increasing attention today. By definition, cyber resilience enables business continuity by preparing for, responding to, and recovering from cyber activities. The aim of this study is to investigate the themes and trends in cyber resilience research using text mining tools. We applied bibliometric analysis and Latent Dirichlet Algorithm (LDA) topic modeling on text found in 1252 academic articles from 1995 to 2022, to empirically identify key research topics and their respective trends. The findings reveal a promising interest in cyber resilience. We also extrapolate and present the topics in academic literature before and after the pandemic to draw comparisons. Thus, we present 29 topics and two high-level themes in cyber resilience research, their evolution overtime, and provide a comparison of the topics in literature pre- and post-pandemic. The results highlight research gaps in the domain which will aid researchers in making informed decisions on future studies.
 
