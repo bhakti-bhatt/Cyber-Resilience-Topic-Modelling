@@ -3,7 +3,11 @@ For a Major Research Project submitted to Toronto Metropolitan University (TMU)
 ### Purpose: Topic Modelling using LDA techniques on academic literature related to cyber resilience
 
 Dataset Used:
-To be updated with link
+
+Downloaded pdf files: to be updated with link
+
+Scopus Extract & full text extract csv format: to be updated with link
+
 
 Description of the notebooks:
 
