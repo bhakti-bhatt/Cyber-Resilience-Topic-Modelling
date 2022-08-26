@@ -13,11 +13,11 @@ Cyber resilience is receiving increasing attention today. By definition, cyber r
 
 #### Downloaded pdf files 
 
-TBD
+https://drive.google.com/drive/folders/19OxaCKotw0Y8vycYOdiMbQ7d8d3BqwXO
 
 #### Scopus Article Extract & Full Text Extract from pdf files
 
-TBD
+https://drive.google.com/drive/folders/18Mt4BTjhGSBDcrSTqiVdSneXeuvEDRM7
 
 ## Description of the notebooks
 
